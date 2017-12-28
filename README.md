@@ -1,0 +1,1 @@
+# ScanQRCode_component
